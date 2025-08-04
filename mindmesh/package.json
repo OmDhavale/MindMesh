@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
+    "@headlessui/react": "^2.2.7",
     "dotenv": "^17.2.1",
+    "force-graph": "^1.50.1",
     "next": "15.4.5",
     "openai": "^5.11.0",
     "react": "19.1.0",
@@ -19,6 +21,6 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4"
+    "tailwindcss": "^4.1.11"
   }
 }
